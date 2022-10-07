@@ -38,7 +38,7 @@
     },
     {
     "platform": "webapp",
-    "url": "https://www.tokopedia.com/manifest.json"
+    "url": "https://cdn.jsdelivr.net/gh/sachitsingh24/practicereacttesting/manifest.json"
     }
   ]
 }
