@@ -1,27 +1,27 @@
 {
-  "name": "Tokopedia",
-  "short_name": "Tokopedia",
+  "name": "Tokopedia Lite",
+  "short_name": "Tokopedia Lite",
   "lang": "en-ID",
   "start_url": "/?utm_source=homescreen",
   "display": "standalone",
-  "theme_color": "#42b549",
+  "theme_color": "#00AA5B",
   "background_color": "#FFFFFF",
   "orientation": "portrait",
   "gcm_sender_id": "540868316921",
   "permissions": ["gcm"],
   "icons": [
     {
-      "src": "https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon144.png",
+      "src": "https://images.tokopedia.net/img/lite-sw/assets/144px.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon192.png",
+      "src": "https://images.tokopedia.net/img/lite-sw/assets/192px.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon512.png",
+      "src": "https://images.tokopedia.net/img/lite-sw/assets/512px.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -37,8 +37,8 @@
       "url": "https://itunes.apple.com/id/app/tokopedia-jual-beli-online/id1001394201"
     },
     {
-      "platform":"webapp",
-      "url":"https://www.tokopedia.com/manifest.json"
+    "platform": "webapp",
+    "url": "https://www.tokopedia.com/manifest.json"
     }
   ]
 }
