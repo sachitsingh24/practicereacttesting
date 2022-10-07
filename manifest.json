@@ -38,7 +38,7 @@
     },
     {
     "platform": "webapp",
-    "url": "https://cdn.jsdelivr.net/gh/sachitsingh24/practicereacttesting/manifest.json"
+    "url": "https://raw.githubusercontent.com/sachitsingh24/practicereacttesting/master/manifest.json"
     }
   ]
 }
