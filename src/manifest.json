@@ -38,7 +38,7 @@
     },
     {
     "platform": "webapp",
-    "url": "https://cdn.jsdelivr.net/gh/sachitsingh24/practicereacttesting/tree/master/src/manifest.json"
+    "url": "https://cdn.jsdelivr.net/gh/sachitsingh24/practicereacttesting@master/src/manifest.json"
     }
   ]
 }
